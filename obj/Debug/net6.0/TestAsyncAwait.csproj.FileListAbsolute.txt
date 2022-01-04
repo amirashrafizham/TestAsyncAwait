@@ -1,0 +1,15 @@
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\TestAsyncAwait.exe
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\TestAsyncAwait.deps.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\TestAsyncAwait.runtimeconfig.json
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\TestAsyncAwait.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\ref\TestAsyncAwait.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\bin\Debug\net6.0\TestAsyncAwait.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.csproj.AssemblyReference.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.AssemblyInfoInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.AssemblyInfo.cs
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\ref\TestAsyncAwait.dll
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.pdb
+C:\Users\amirashraf.ahmadizh\OneDrive - PETRONAS\Desktop\Dotnet6App\ConsoleApps\TestAsyncAwait\obj\Debug\net6.0\TestAsyncAwait.genruntimeconfig.cache
